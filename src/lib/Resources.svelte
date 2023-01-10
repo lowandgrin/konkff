@@ -28,7 +28,7 @@ import { dynasty } from './utils/helper';
             dynastyOnly: true,
         },
         {
-            name: "The Fantasy Footballers (heaviery focus on redraft)",
+            name: "The Fantasy Footballers (heavier focus on redraft)",
             url: "https://www.thefantasyfootballers.com/",
             icon: "podcasts",
             premium: true,
