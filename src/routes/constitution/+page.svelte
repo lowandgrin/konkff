@@ -133,7 +133,7 @@
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: Rookie Draft</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>7.1 Draft Order</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOneOne)}>7.1.1 Tiebreakers</h4>
+        <h5 class="noUnderscore clickable" on:click={() => goToSection(sevenOneOne)}>7.1.1 Tiebreakers</h5>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenTwo)}>7.2 Draft Rules</h4>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(eight)}>Section 8: Abandoned Teams / Refunds</h3>
