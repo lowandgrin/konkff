@@ -131,8 +131,8 @@
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Playoffs</h3>
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: Rookie Drafts</h3>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>7.1 Rookie Draft Order</h4>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: Rookie Draft</h3>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>7.1 Draft Order</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOneOne)}>7.1.1 Tiebreakers</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenTwo)}>7.2 Draft Rules</h4>
 
