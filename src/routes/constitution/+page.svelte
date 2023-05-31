@@ -153,7 +153,7 @@
             <p>This restriction can be altered at the discretion of the league commissioner (technical issues, extenuating circumstances, etc)</p>
 
         <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Annual Rookie Draft: TBD following NFL Draft</h3>
-            p>The annual rookie draft will be held after all league members have renewed for the upcoming season and/or after all open team slots have been filled. This will be approximately within 2 weeks following the NFL Draft. On the occasion that scheduling does not permit the Rookie Draft to commence as stated above, a new date will be discussed and set by managers within the league.
+            <p>The annual rookie draft will be held after all league members have renewed for the upcoming season and/or after all open team slots have been filled. This will be approximately within 2 weeks following the NFL Draft. On the occasion that scheduling does not permit the Rookie Draft to commence as stated above, a new date will be discussed and set by managers within the league.
             </p>
 
     <h2 class="sectionHeading" bind:this={two}>Section 2: Fees and Payouts</h2>
@@ -187,7 +187,7 @@
                 <tr><td>Fumbles Lost</td><td class="right">-1 for each</td></tr>
                 <tr><td>Kickoff or Punt Return TD</td><td class="right">6 for each</td></tr>
                 <tr><td>Offensive Fumble Recoveries for TD</td><td class="right">6 for each</td></tr>
-              <tr><td>BONUS: 100-199 Yard Rushing Game</td><td class="right">+2 per game</td></tr>
+                <tr><td>BONUS: 100-199 Yard Rushing Game</td><td class="right">+2 per game</td></tr>
                 <tr><td>BONUS: 200+ Yard Rushing Game</td><td class="right">+2 per game</td></tr>
                 <tr><td>BONUS: 100-199 Yard Receiving Game</td><td class="right">+2 per game</td></tr>
                 <tr><td>BONUS: 200+ Yard Receiving Game</td><td class="right">+2 per game</td></tr>
@@ -234,43 +234,43 @@
     </div>
 
     <h2 class="sectionHeading" bind:this={five}>Section 5: Trading</h2>
-  <div class="subBlock">
-    <h3 class="subSectionHeading" bind:this={fiveThree}>5.1 Trading Basic Rules</h3>
-      <p>3 IR Spots (Player must be labeled as IR, Out, Suspended or Covid in the Sleeper App)</p>
-    <h3 class="subSectionHeading" bind:this={fiveThree}>5.2 Trade Deadline **UNDER REVIEW**</h3>
-      <p>The trade deadline each season will be week 13.</p>
-    <h3 class="subSectionHeading" bind:this={fiveThree}>5.3 Protesting Trades / Reversals</h3>
-      <p>If you believe that there is collusion involving a trade, contact the commissioner. If possible, provide evidence as to why you think the trade may be collusive.</p>
-      <p>Opinions on unbalanced trades are naturally subjective. Any trade which you believe to be egregiously unbalanced should be brought to the attention of the commissioner for review. If possible, provide evidence as to why you think the trade may be egregiously unbalanced (trade calculator, player value sheets, etc).</p>
-    <h3 class="subSectionHeading" bind:this={fiveThree}>5.4 Trade/Roster Accidents</h3>
-      <p>If a team manager contacts the commissioner within a reasonable amount of time and says a deal was accepted in error or made an accident in the trade they offered</p>
-      <p>If a trade is made while a pick is on the clock and accepted by a team trading away a pick where there isn’t a reasonable amount of time for the team getting the on-the-clock pick to make their selection, a pick may be reverted.</p>
-      <p>On rare occasion moves (trade/waiver/move/pick) may be undone as well when reversing another move. This would be due to a transaction being made that either includes assets in the move being reversed or made due to the belief the move being reversed would stand.</p>
-      <p>It is always best to alert the other party and the league along with the commissioner as well as trying to trade back with the other party.</p>
-    <h3 class="subSectionHeading" bind:this={fiveThree}>5.5 Taxi Trades **UNDER REVIEW**</h3>
-      <p>Players which have been placed on a team's taxi squad may be traded. The receiving team may opt to keep the player on their own taxi squad, provided space is available. If no spots are available, the receiving manager may drop a player in order to add the newly acquired player.</p>
-      <p>Any transactions which include Taxi to Taxi trades need to be immediately reported to the commissioner. Sleeper by default does not allow for traded players to be added to a team’s taxi squad once the season has started and will have to be handled manually. If notification does not take place within a reasonable time period, the player may not be added to the receiving team’s Taxi Squad.</p>
-  </div>
+    <div class="subBlock">
+        <h3 class="subSectionHeading" bind:this={fiveThree}>5.1 Trading Basic Rules</h3>
+            <p>3 IR Spots (Player must be labeled as IR, Out, Suspended or Covid in the Sleeper App)</p>
+        <h3 class="subSectionHeading" bind:this={fiveThree}>5.2 Trade Deadline **UNDER REVIEW**</h3>
+            <p>The trade deadline each season will be week 13.</p>
+        <h3 class="subSectionHeading" bind:this={fiveThree}>5.3 Protesting Trades / Reversals</h3>
+            <p>If you believe that there is collusion involving a trade, contact the commissioner. If possible, provide evidence as to why you think the trade may be collusive.</p>
+            <p>Opinions on unbalanced trades are naturally subjective. Any trade which you believe to be egregiously unbalanced should be brought to the attention of the commissioner for review. If possible, provide evidence as to why you think the trade may be egregiously unbalanced (trade calculator, player value sheets, etc).</p>
+        <h3 class="subSectionHeading" bind:this={fiveThree}>5.4 Trade/Roster Accidents</h3>
+            <p>If a team manager contacts the commissioner within a reasonable amount of time and says a deal was accepted in error or made an accident in the trade they offered</p>
+            <p>If a trade is made while a pick is on the clock and accepted by a team trading away a pick where there isn’t a reasonable amount of time for the team getting the on-the-clock pick to make their selection, a pick may be reverted.</p>
+            <p>On rare occasion moves (trade/waiver/move/pick) may be undone as well when reversing another move. This would be due to a transaction being made that either includes assets in the move being reversed or made due to the belief the move being reversed would stand.</p>
+            <p>It is always best to alert the other party and the league along with the commissioner as well as trying to trade back with the other party.</p>
+        <h3 class="subSectionHeading" bind:this={fiveThree}>5.5 Taxi Trades **UNDER REVIEW**</h3>
+            <p>Players which have been placed on a team's taxi squad may be traded. The receiving team may opt to keep the player on their own taxi squad, provided space is available. If no spots are available, the receiving manager may drop a player in order to add the newly acquired player.</p>
+            <p>Any transactions which include Taxi to Taxi trades need to be immediately reported to the commissioner. Sleeper by default does not allow for traded players to be added to a team’s taxi squad once the season has started and will have to be handled manually. If notification does not take place within a reasonable time period, the player may not be added to the receiving team’s Taxi Squad.</p>
+    </div>
 
-  <h2 class="subSectionHeading" bind:this={six}>Section 6: Playoffs</h2>
-      <p>Playoff seeding and bracket are handled by Sleeper. Please see league app/site for details.</p>
+    <h2 class="subSectionHeading" bind:this={six}>Section 6: Playoffs</h2>
+        <p>Playoff seeding and bracket are handled by Sleeper. Please see league app/site for details.</p>
 
-  <h2 class="subSectionHeading" bind:this={seven}>Section 7: Rookie Drafts</h2>
-  <div class="subBlock">
-      <p>Each subsequent year after the startup draft, a draft will be held to distribute rookies. This draft will be held after the NFL Draft.</p>
+    <h2 class="subSectionHeading" bind:this={seven}>Section 7: Rookie Drafts</h2>
+    <div class="subBlock">
+        <p>Each subsequent year after the startup draft, a draft will be held to distribute rookies. This draft will be held after the NFL Draft.</p>
 
-    <h3 class="subSectionHeading" bind:this={sevenOne}>7.1 Draft Order</h3>
+        <h3 class="subSectionHeading" bind:this={sevenOne}>7.1 Draft Order</h3>
       <ul>
         <li>Picks 1-4 will be decided by fantasy regular season standings (not including fantasy playoffs). They will go in order of lowest win percentage to highest win percentage with points scored on the season as tiebreaker and reverse order of opponent total points scored as a secondary tiebreaker.</li>
         <li>Picks 5 & 6 will be decided between the 2 teams eliminated from Round 1 of the playoffs*</li>
         <li>Picks 7 & 8 will be decided between the 2 teams eliminated from Round 2 of the playoffs*</li>
         <li>Pick 9 goes to the league championship runner-up</li>
-        <li>Pick 10 goes to the league champion.</p></li>
+        <li>Pick 10 goes to the league champion.</li>
       </ul>
 
       <p>* Determination between picks 5/6 & 7/8 will go in order of lowest win percentage to highest win percentage with points scored on the season as tiebreaker and reverse order of opponent total points scored as a secondary tiebreaker.</p>
         <div class="subBlock">
-          <h4 class="subSectionHeading" bind:this={sevenOneOne}>7.1.1 Draft Order Tiebreakers</h3>
+          <h4 class="subSectionHeading" bind:this={sevenOneOne}>7.1.1 Draft Order Tiebreakers</h4>
             <ul><li>Total Points Scored (fewest gets the higher pick)</li>
               <li>Reverse Order of Opponent Total Points Scored (highest gets the higher pick)</li>
             </ul> 
