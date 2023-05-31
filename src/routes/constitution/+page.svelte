@@ -2,7 +2,7 @@
     import { dues } from '$lib/utils/helper';
     let one, oneOne, oneTwo;
     let two, twoOne, twoTwo;
-    let three, threeOne;
+    let three;
     let four, fourOne, fourTwo, fourThree, fourFour, fourFive, fourSix;
     let five, fiveOne, fiveTwo, fiveThree, fiveFour, fiveFive;
     let six;
@@ -35,18 +35,17 @@
     }
 
     h2 {
+        text-decoration: underline;
         font-size: 1.5em;
         line-height: 1.2em;
     }
 
     h3 {
-        text-decoration: underline;
         font-size: 1.3em;
         line-height: 1.2em;
     }
 
     h4 {
-        text-decoration: underline;
         margin-left: 2em;
         font-size: 1.2em;
         line-height: 1.2em;
@@ -95,7 +94,7 @@
     }
 
     p {
-        color: #777;
+        color: #d4d4d4;
     }
 </style>
 
@@ -147,7 +146,8 @@
     <hr />
     
     <h2 class="sectionHeading" bind:this={one}>Section 1: Important Dates</h2>
-    
+    <div class="subBlock">
+
         <h3 class="subSectionHeading" bind:this={oneOne}>1.1 League Renewal Deadline: Prior to Annual Rookie Draft</h3>
             <p>Each team manager must make their payment for the upcoming season prior to the above listed deadline. If payment has not been received by the above listed deadline, the offending team will be forced to auto draft the entirety of the current Rookie Draft. 
             <p>This restriction can be altered at the discretion of the league commissioner (technical issues, extenuating circumstances, etc)</p>
@@ -155,6 +155,7 @@
         <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Annual Rookie Draft: TBD following NFL Draft</h3>
             <p>The annual rookie draft will be held after all league members have renewed for the upcoming season and/or after all open team slots have been filled. This will be approximately within 2 weeks following the NFL Draft. On the occasion that scheduling does not permit the Rookie Draft to commence as stated above, a new date will be discussed and set by managers within the league.
             </p>
+    </div>
 
     <h2 class="sectionHeading" bind:this={two}>Section 2: Fees and Payouts</h2>
             <p>All league finances will be administered by the league commissioner.</p>
