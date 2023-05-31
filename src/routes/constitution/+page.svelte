@@ -217,18 +217,18 @@
         <h3 class="subSectionHeading" bind:this={fourTwo}>4.2 Bench Spots</h3>
             <p>Each team has 16 Bench Spots.  *ADDED SPOTS DURING OFFSEASON*</p>
 
-        <h3 class="subSectionHeading" bind:this={fourThree}>4.2 Injured Reserve Spots</h3>
+        <h3 class="subSectionHeading" bind:this={fourThree}>4.3 Injured Reserve Spots</h3>
             <p>3 IR Spots (Player must be labeled as IR, Out, Suspended or Covid in the Sleeper App)</p>
     
-        <h3 class="subSectionHeading" bind:this={fourFour}>4.3 Taxi Squad</h3>
+        <h3 class="subSectionHeading" bind:this={fourFour}>4.4 Taxi Squad</h3>
             <p>Each team has 5 Taxi Squad spots, which may be filled with players entering their rookie seasons. Players may remain on the Taxi for an additional year beyond their rookie season, but must be removed in the subsequent season.</p>
             <p>Players must be declared on the Taxi Squad prior to the beginning of Week 1 of their rookie season. Once Week 1 has begun, rookies will no longer be able to be added to the Taxi, per Sleeper rules.</p>
-        <h3 class="subSectionHeading" bind:this={fourFour}>4.4 Weekly Starting Lineup</h3>
+        <h3 class="subSectionHeading" bind:this={fourFive}>4.5 Weekly Starting Lineup</h3>
             <p>You must submit a valid starting lineup weekly.</p>
             <p>Team managers may adjust lineups up until kickoff of each player's game. Team managers that swap out players for injured or obviously inferior players may forfeit future draft picks or be removed from the league.</p>
             <p>Starting lineups are not allowed to have players on BYE or players who had been listed as OUT with a reasonable amount of time for the team manager to correct the lineup. This is usually only done if the starting of such a player appears to be an attempt to intentionally tank or if the team is potentially abandoned. See “Article IX: Illegal Starting Lineups / Throwing Games / Tanking” for more detailed information.</p>
             <p>Extenuating circumstances do apply, e.g. a plethora of injuries, majority of players on bye, etc which restrict a reasonable lineup to be set. Picking up Free Agents and/or trading to field a full roster is very strongly encouraged in order to keep the league competitive.</p>
-        <h3 class="subSectionHeading" bind:this={fourFive}>4.5 Roster Freeze (**UNDER REVIEW**)</h3>
+        <h3 class="subSectionHeading" bind:this={fourSix}>4.6 Roster Freeze (**UNDER REVIEW**)</h3>
             <p>No free agent pickups are allowed between the conclusion of the fantasy season and the annual rookie draft. Trading is still allowed during this period.* Free agency will be opened at the conclusion of the rookie draft.</p>
             <p>* The commissioner may need to be contacted in order to open the league for a trade to be completed in the offseason.</p>
     </div>
