@@ -100,7 +100,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">Kick Off - No Kickers Bylaws (Under Construction)</h1>
+    <h1 class="noUnderscore">Kick Off - No Kickers Bylaws (Under Construction) (Draft 1.0)</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
