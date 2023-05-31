@@ -318,3 +318,4 @@
         <li>Best Interest Clause: Should circumstances, issues or problems arise for which a remedy is not stated in the rules or bylaws, the commissioner reserves the right to take whatever action deemed necessary in the best interest of the league.</li>
         <li>Any amendments to the preceding document beyond procedural changes, may be brought to a vote (e.g. roster requirement changes, scoring changes. A  supermajority of 7 votes in the affirmative will be required for any bylaw or league rule change to be made.</li>
       </ol>
+</div>
