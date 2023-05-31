@@ -235,19 +235,19 @@
 
     <h2 class="sectionHeading" bind:this={five}>Section 5: Trading</h2>
     <div class="subBlock">
-        <h3 class="subSectionHeading" bind:this={fiveThree}>5.1 Trading Basic Rules</h3>
+        <h3 class="subSectionHeading" bind:this={fiveOne}>5.1 Trading Basic Rules</h3>
             <p>3 IR Spots (Player must be labeled as IR, Out, Suspended or Covid in the Sleeper App)</p>
-        <h3 class="subSectionHeading" bind:this={fiveThree}>5.2 Trade Deadline **UNDER REVIEW**</h3>
+        <h3 class="subSectionHeading" bind:this={fiveTwo}>5.2 Trade Deadline **UNDER REVIEW**</h3>
             <p>The trade deadline each season will be week 13.</p>
         <h3 class="subSectionHeading" bind:this={fiveThree}>5.3 Protesting Trades / Reversals</h3>
             <p>If you believe that there is collusion involving a trade, contact the commissioner. If possible, provide evidence as to why you think the trade may be collusive.</p>
             <p>Opinions on unbalanced trades are naturally subjective. Any trade which you believe to be egregiously unbalanced should be brought to the attention of the commissioner for review. If possible, provide evidence as to why you think the trade may be egregiously unbalanced (trade calculator, player value sheets, etc).</p>
-        <h3 class="subSectionHeading" bind:this={fiveThree}>5.4 Trade/Roster Accidents</h3>
+        <h3 class="subSectionHeading" bind:this={fiveFour}>5.4 Trade/Roster Accidents</h3>
             <p>If a team manager contacts the commissioner within a reasonable amount of time and says a deal was accepted in error or made an accident in the trade they offered</p>
             <p>If a trade is made while a pick is on the clock and accepted by a team trading away a pick where there isn’t a reasonable amount of time for the team getting the on-the-clock pick to make their selection, a pick may be reverted.</p>
             <p>On rare occasion moves (trade/waiver/move/pick) may be undone as well when reversing another move. This would be due to a transaction being made that either includes assets in the move being reversed or made due to the belief the move being reversed would stand.</p>
             <p>It is always best to alert the other party and the league along with the commissioner as well as trying to trade back with the other party.</p>
-        <h3 class="subSectionHeading" bind:this={fiveThree}>5.5 Taxi Trades **UNDER REVIEW**</h3>
+        <h3 class="subSectionHeading" bind:this={fiveFive}>5.5 Taxi Trades **UNDER REVIEW**</h3>
             <p>Players which have been placed on a team's taxi squad may be traded. The receiving team may opt to keep the player on their own taxi squad, provided space is available. If no spots are available, the receiving manager may drop a player in order to add the newly acquired player.</p>
             <p>Any transactions which include Taxi to Taxi trades need to be immediately reported to the commissioner. Sleeper by default does not allow for traded players to be added to a team’s taxi squad once the season has started and will have to be handled manually. If notification does not take place within a reasonable time period, the player may not be added to the receiving team’s Taxi Squad.</p>
     </div>
