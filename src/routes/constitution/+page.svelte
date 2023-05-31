@@ -126,7 +126,7 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveOne)}>5.1 Trading Basic Rules</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveTwo)}>5.2 Trade Deadline</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveThree)}>5.3 Protesting Trades / Reversals</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(fivefive)}>5.4 Trade/Roster Accidents</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveFour)}>5.4 Trade/Roster Accidents</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveFive)}>5.5 Taxi Trades</h4>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Playoffs</h3>
