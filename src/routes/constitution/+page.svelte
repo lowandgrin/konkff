@@ -152,7 +152,7 @@
             <p>Each team manager must make their payment for the upcoming season prior to the above listed deadline. If payment has not been received by the above listed deadline, the offending team will be forced to auto draft the entirety of the current Rookie Draft. 
             <p>This restriction can be altered at the discretion of the league commissioner (technical issues, extenuating circumstances, etc)</p>
 
-        <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Annual Rookie Draft: TBD following NFL Draft</h3>
+        <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Annual Rookie Draft: TBD following NFL Draft **UNDER REVIEW**</h3>
             <p>The annual rookie draft will be held after all league members have renewed for the upcoming season and/or after all open team slots have been filled. This will be approximately within 2 weeks following the NFL Draft. On the occasion that scheduling does not permit the Rookie Draft to commence as stated above, a new date will be discussed and set by managers within the league.
             </p>
     </div>
@@ -253,10 +253,10 @@
             <p>Any transactions which include Taxi to Taxi trades need to be immediately reported to the commissioner. Sleeper by default does not allow for traded players to be added to a team’s taxi squad once the season has started and will have to be handled manually. If notification does not take place within a reasonable time period, the player may not be added to the receiving team’s Taxi Squad.</p>
     </div>
 
-    <h2 class="subSectionHeading" bind:this={six}>Section 6: Playoffs</h2>
+    <h2 class="subSectionHeading" bind:this={six}>Section 6: Playoffs **UNDER REVIEW**</h2>
         <p>Playoff seeding and bracket are handled by Sleeper. Please see league app/site for details.</p>
 
-    <h2 class="subSectionHeading" bind:this={seven}>Section 7: Rookie Drafts</h2>
+    <h2 class="subSectionHeading" bind:this={seven}>Section 7: Rookie Drafts **UNDER REVIEW**</h2>
     <div class="subBlock">
         <p>Each subsequent year after the startup draft, a draft will be held to distribute rookies. This draft will be held after the NFL Draft.</p>
 
@@ -302,7 +302,7 @@
         <li>The selling/trading of assets does not constitute throwing/tanking.</li>
         <li>If an offending manager is eventually removed as owner of a team, any lost draft picks may be reinstated by the commissioner. Alterations to the offending team’s draft spot may also be made to compensate for abuses resulting from above infractions.</li>
       </ol>
-    <p>Examples of tanking or throwing games which may lead to above infractions being imposed: consistently sitting a known quality player for a lesser quality player, e.g. sitting a top 10 player at any position for a significantly lower generally performing player.</p>
+    <p>Examples of tanking or throwing games which may lead to above infractions being imposed: consistently sitting a known quality player for a lesser quality player, e.g. sitting a top 10 player at any position for a lower performing player.</p>
     <p>Don’t Be An Asshole Clause: Player projections are unreliable at best and should not be used as an end all be all for setting lineups. Forcing teams to play the best lineup based on projections would be counterproductive in many cases. So simply, don’t be an asshole, set a competitive lineup.</p>
 
   <h2 class="subSectionHeading" bind:this={ten}>Section 10: Collusion</h2>
