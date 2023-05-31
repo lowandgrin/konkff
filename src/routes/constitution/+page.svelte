@@ -23,7 +23,7 @@
         position: relative;
         z-index: 1;
         width: 92%;
-        max-width: 800px;
+        max-width: 1200px;
         margin: 8em auto 10em;
     }
 
@@ -100,7 +100,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">Kick Off - No Kickers Bylaws (Under Construction) (Draft 1.0)</h1>
+    <h1 class="noUnderscore">Kick Off - No Kickers Bylaws (Draft 1.0)</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
