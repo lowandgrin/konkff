@@ -35,12 +35,13 @@ import { dynasty } from './utils/helper';
             separator: true,
         },
         {
-            name: "DynastyProcess Trade Calculator",
-            url: "https://apps.dynastyprocess.com/calculator/",
+            name: "KeepTradeCut Dynasty Calculator",
+            url: "https://keeptradecut.com/trade-calculator/",
             icon: "calculate",
             premium: false,
             separator: true,
             dynastyOnly: true,
+
         },
         {
             name: "FantasyCalc Trade Database",
@@ -51,8 +52,8 @@ import { dynasty } from './utils/helper';
             dynastyOnly: true,
         },
         {
-            name: "KeepTradeCut Dynasty Calculator",
-            url: "https://keeptradecut.com/trade-calculator/",
+            name: "DynastyProcess Trade Calculator",
+            url: "https://apps.dynastyprocess.com/calculator/",
             icon: "calculate",
             premium: false,
             separator: true,
