@@ -28,6 +28,14 @@ import { dynasty } from './utils/helper';
             dynastyOnly: true,
         },
         {
+            name: "Dynasty Reddit",
+            url: "https://reddit.com/r/DynastyFF/",
+            icon: "insights",
+            premium: false,
+            separator: true,
+            dynastyOnly: true,
+        },
+        {
             name: "The Fantasy Footballers (heavier focus on redraft)",
             url: "https://www.thefantasyfootballers.com/",
             icon: "podcasts",
